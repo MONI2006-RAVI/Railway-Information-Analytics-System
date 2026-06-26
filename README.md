@@ -22,3 +22,6 @@ This project is a Railway Data Engineering and Analytics Dashboard developed usi
 ## Run the Application
 '''bash
 stramlit run app.py
+##Stramlit Link
+Local URL: http://localhost:8501
+Network URL: http://10.194.173.218:8501
